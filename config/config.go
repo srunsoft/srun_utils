@@ -3,7 +3,7 @@ package config
 import (
 	"fmt"
 	"os"
-	utils "e.coding.net/srun/go_utils/srun_utils"
+	utils "github.com/srunsoft/srun_utils"
 	"strconv"
 	"strings"
 

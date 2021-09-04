@@ -1,7 +1,7 @@
 package utils_test
 
 import (
-	utils "e.coding.net/srun/go_utils/srun_utils"
+	utils "github.com/srunsoft/srun_utils"
 	"testing"
 )
 

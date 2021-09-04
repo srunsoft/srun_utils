@@ -1,4 +1,4 @@
-module e.coding.net/srun/go_utils/srun_utils
+module github.com/srunsoft/srun_utils
 
 go 1.15
 
